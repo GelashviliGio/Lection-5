@@ -1,7 +1,7 @@
 body{
     width: 1366px;
     height: 1810px;
-    background: #FFFFFF 0% 0% no-repeat padding-box;
+    background: #FFFFFF
     opacity: 1;
     margin-top: 30px;
     margin-left: 30px;
@@ -73,6 +73,22 @@ nav li {
     display: inline-block;
     color: #000000;
 }
+.kubi12{
+    width: 1366px;
+    height: 225px;
+    
+}
+.kubi1{
+    width: 570px;
+    height: 225px;
+  
+    display: inline-block;
+}
+.kubi2{
+    width: 570px;
+    height: 225px;
+    display: inline-block;
+}
 .Rectangle13{
     margin: 30px 29px 0px 98px;
     width: 570px;
@@ -86,14 +102,14 @@ nav li {
     color: #3D58A6;
     opacity: 1;
 }
-.KUB{
+.kubicon{
     display: inline-block;
     width: 101px;
     height: 117px;
     background-color: #3D58A6;
     margin: 9px 0 42px 39px;
 }
-article p{
+.articlep{
     position: absolute;
     display: inline-block;
     color: #333333;
@@ -130,4 +146,44 @@ article p{
 	width: 25px;
 	height: 30ox;
 	color: #3D58A6;
+}
+footer{
+    margin-top: 69px;
+    margin-left: 110px;
+}
+.Date{
+	margin: 30px 0 0 0px;
+ 	background-color: #3D58A6;
+ 	height: 64px;
+ 	width: 52px;
+ 	color: #FFFFFF;
+	font-size: 48px;
+}
+.Month{
+	height: 30px;
+	width: 63px;
+	font-size: 22px;
+    margin: 3px 0 0 0px;
+    color: #3D58A6;
+ }
+ .Title{
+	width: 743px;
+	height: 27px;
+	font-size: 20px;
+	color: #000000;
+    margin-top: 20px;
+ }
+ .Notebook{
+	width: 270px;
+	height: 210px;
+    margin: 16px 0 141px 0;
+}
+.Mayinfo{
+    width: 929px;
+	height: 360px;
+	color: #000000;
+	font-size: 16px;
+    text-align: left;
+    display: inline-block;
+    margin: 0px 0 50px 40px;
 }
